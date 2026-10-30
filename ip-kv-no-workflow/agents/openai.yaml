@@ -1,0 +1,3 @@
+interface:
+  display_name: "IP KV生成-无workflow"
+  short_description: "使用最佳可用GPT能力分析与生成IP运营KV，支持图库检索和固定参考兜底"
